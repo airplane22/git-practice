@@ -1,4 +1,4 @@
 def practice():
     print('git practice!')
 
-print()
+print("Hello world!")
