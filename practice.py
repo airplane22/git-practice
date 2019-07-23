@@ -6,3 +6,6 @@ def practice1():
 
 def practice2():
     print('practice2')
+
+def error1():
+    print('error1')
