@@ -14,3 +14,5 @@ def error1():
 def error2():
     print('error2')
 
+def error3():
+    print('error3')
